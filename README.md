@@ -2,4 +2,4 @@
 
 This is a test repository.
 This is a test repository.
-This is a change from the lsEli branch.
+This is a commit from the lsEli branch.
